@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.34 (w)1999-2012 BSI
+[*] Wed Jan  1 20:01:10 2014
+[*]
+[dumpfile] "/home/yc/SVN/Studium/DSP/Projekt/SDR/dev/fir/fir.ghw"
+[dumpfile_mtime] "Wed Jan  1 19:59:09 2014"
+[dumpfile_size] 837884
+[savefile] "/home/yc/SVN/Studium/DSP/Projekt/SDR/dev/fir/fir.gtkw"
+[timestart] 0
+[size] 1366 713
+[pos] -1 -1
+*-37.958458 145000000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.fir_matlab.
+[treeopen] top.fir_matlab.dut.
+[sst_width] 201
+[signals_width] 182
+[sst_expanded] 1
+[sst_vpaned_height] 414
+@200
+-
+@420
+#{top.fir_matlab.dut.q[26:0]} top.fir_matlab.dut.q[26] top.fir_matlab.dut.q[25] top.fir_matlab.dut.q[24] top.fir_matlab.dut.q[23] top.fir_matlab.dut.q[22] top.fir_matlab.dut.q[21] top.fir_matlab.dut.q[20] top.fir_matlab.dut.q[19] top.fir_matlab.dut.q[18] top.fir_matlab.dut.q[17] top.fir_matlab.dut.q[16] top.fir_matlab.dut.q[15] top.fir_matlab.dut.q[14] top.fir_matlab.dut.q[13] top.fir_matlab.dut.q[12] top.fir_matlab.dut.q[11] top.fir_matlab.dut.q[10] top.fir_matlab.dut.q[9] top.fir_matlab.dut.q[8] top.fir_matlab.dut.q[7] top.fir_matlab.dut.q[6] top.fir_matlab.dut.q[5] top.fir_matlab.dut.q[4] top.fir_matlab.dut.q[3] top.fir_matlab.dut.q[2] top.fir_matlab.dut.q[1] top.fir_matlab.dut.q[0]
+#{top.fir_matlab.dut.d[26:0]} top.fir_matlab.dut.d[26] top.fir_matlab.dut.d[25] top.fir_matlab.dut.d[24] top.fir_matlab.dut.d[23] top.fir_matlab.dut.d[22] top.fir_matlab.dut.d[21] top.fir_matlab.dut.d[20] top.fir_matlab.dut.d[19] top.fir_matlab.dut.d[18] top.fir_matlab.dut.d[17] top.fir_matlab.dut.d[16] top.fir_matlab.dut.d[15] top.fir_matlab.dut.d[14] top.fir_matlab.dut.d[13] top.fir_matlab.dut.d[12] top.fir_matlab.dut.d[11] top.fir_matlab.dut.d[10] top.fir_matlab.dut.d[9] top.fir_matlab.dut.d[8] top.fir_matlab.dut.d[7] top.fir_matlab.dut.d[6] top.fir_matlab.dut.d[5] top.fir_matlab.dut.d[4] top.fir_matlab.dut.d[3] top.fir_matlab.dut.d[2] top.fir_matlab.dut.d[1] top.fir_matlab.dut.d[0]
+@29
+top.fir_matlab.stb
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.34 (w)1999-2012 BSI
+[*] Sat Jan 11 14:57:23 2014
+[*]
+[dumpfile] "/home/yc/SVN/Studium/DSP/Projekt/SDR/dev/div/div_tb.ghw"
+[dumpfile_mtime] "Sat Jan 11 14:44:13 2014"
+[dumpfile_size] 36060
+[savefile] "/home/yc/SVN/Studium/DSP/Projekt/SDR/dev/div/div.gtkw"
+[timestart] 0
+[size] 1366 713
+[pos] -337 -1
+*-34.242489 20000000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.div_tb.
+[treeopen] top.div_tb.dut.
+[sst_width] 201
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 414
+@420
+#{top.div_tb.remaind[27:0]} top.div_tb.remaind[27] top.div_tb.remaind[26] top.div_tb.remaind[25] top.div_tb.remaind[24] top.div_tb.remaind[23] top.div_tb.remaind[22] top.div_tb.remaind[21] top.div_tb.remaind[20] top.div_tb.remaind[19] top.div_tb.remaind[18] top.div_tb.remaind[17] top.div_tb.remaind[16] top.div_tb.remaind[15] top.div_tb.remaind[14] top.div_tb.remaind[13] top.div_tb.remaind[12] top.div_tb.remaind[11] top.div_tb.remaind[10] top.div_tb.remaind[9] top.div_tb.remaind[8] top.div_tb.remaind[7] top.div_tb.remaind[6] top.div_tb.remaind[5] top.div_tb.remaind[4] top.div_tb.remaind[3] top.div_tb.remaind[2] top.div_tb.remaind[1] top.div_tb.remaind[0]
+#{top.div_tb.quot[26:0]} top.div_tb.quot[26] top.div_tb.quot[25] top.div_tb.quot[24] top.div_tb.quot[23] top.div_tb.quot[22] top.div_tb.quot[21] top.div_tb.quot[20] top.div_tb.quot[19] top.div_tb.quot[18] top.div_tb.quot[17] top.div_tb.quot[16] top.div_tb.quot[15] top.div_tb.quot[14] top.div_tb.quot[13] top.div_tb.quot[12] top.div_tb.quot[11] top.div_tb.quot[10] top.div_tb.quot[9] top.div_tb.quot[8] top.div_tb.quot[7] top.div_tb.quot[6] top.div_tb.quot[5] top.div_tb.quot[4] top.div_tb.quot[3] top.div_tb.quot[2] top.div_tb.quot[1] top.div_tb.quot[0]
+#{top.div_tb.denom[27:0]} top.div_tb.denom[27] top.div_tb.denom[26] top.div_tb.denom[25] top.div_tb.denom[24] top.div_tb.denom[23] top.div_tb.denom[22] top.div_tb.denom[21] top.div_tb.denom[20] top.div_tb.denom[19] top.div_tb.denom[18] top.div_tb.denom[17] top.div_tb.denom[16] top.div_tb.denom[15] top.div_tb.denom[14] top.div_tb.denom[13] top.div_tb.denom[12] top.div_tb.denom[11] top.div_tb.denom[10] top.div_tb.denom[9] top.div_tb.denom[8] top.div_tb.denom[7] top.div_tb.denom[6] top.div_tb.denom[5] top.div_tb.denom[4] top.div_tb.denom[3] top.div_tb.denom[2] top.div_tb.denom[1] top.div_tb.denom[0]
+#{top.div_tb.num[26:0]} top.div_tb.num[26] top.div_tb.num[25] top.div_tb.num[24] top.div_tb.num[23] top.div_tb.num[22] top.div_tb.num[21] top.div_tb.num[20] top.div_tb.num[19] top.div_tb.num[18] top.div_tb.num[17] top.div_tb.num[16] top.div_tb.num[15] top.div_tb.num[14] top.div_tb.num[13] top.div_tb.num[12] top.div_tb.num[11] top.div_tb.num[10] top.div_tb.num[9] top.div_tb.num[8] top.div_tb.num[7] top.div_tb.num[6] top.div_tb.num[5] top.div_tb.num[4] top.div_tb.num[3] top.div_tb.num[2] top.div_tb.num[1] top.div_tb.num[0]
+@28
+top.div_tb.dut.count
+top.div_tb.dut.state
+top.div_tb.stb
+top.div_tb.rdy
+[pattern_trace] 1
+[pattern_trace] 0

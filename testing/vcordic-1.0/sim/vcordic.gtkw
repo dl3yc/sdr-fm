@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.34 (w)1999-2012 BSI
+[*] Fri Jan 10 22:37:55 2014
+[*]
+[dumpfile] "/home/yc/SVN/Studium/DSP/Projekt/SDR/testing/vcordic-1.0/sim/vcordic.ghw"
+[dumpfile_mtime] "Fri Jan 10 22:36:34 2014"
+[dumpfile_size] 13067
+[savefile] "/home/yc/SVN/Studium/DSP/Projekt/SDR/testing/vcordic-1.0/sim/vcordic.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-27.817692 532000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.vcordic_tb.
+[treeopen] top.vcordic_tb.dut.
+[sst_width] 201
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 245
+@28
+top.vcordic_tb.clk
+@420
+#{top.vcordic_tb.dut.i[15:0]} top.vcordic_tb.dut.i[15] top.vcordic_tb.dut.i[14] top.vcordic_tb.dut.i[13] top.vcordic_tb.dut.i[12] top.vcordic_tb.dut.i[11] top.vcordic_tb.dut.i[10] top.vcordic_tb.dut.i[9] top.vcordic_tb.dut.i[8] top.vcordic_tb.dut.i[7] top.vcordic_tb.dut.i[6] top.vcordic_tb.dut.i[5] top.vcordic_tb.dut.i[4] top.vcordic_tb.dut.i[3] top.vcordic_tb.dut.i[2] top.vcordic_tb.dut.i[1] top.vcordic_tb.dut.i[0]
+#{top.vcordic_tb.q[15:0]} top.vcordic_tb.q[15] top.vcordic_tb.q[14] top.vcordic_tb.q[13] top.vcordic_tb.q[12] top.vcordic_tb.q[11] top.vcordic_tb.q[10] top.vcordic_tb.q[9] top.vcordic_tb.q[8] top.vcordic_tb.q[7] top.vcordic_tb.q[6] top.vcordic_tb.q[5] top.vcordic_tb.q[4] top.vcordic_tb.q[3] top.vcordic_tb.q[2] top.vcordic_tb.q[1] top.vcordic_tb.q[0]
+@24
+#{top.vcordic_tb.dut.amp[15:0]} top.vcordic_tb.dut.amp[15] top.vcordic_tb.dut.amp[14] top.vcordic_tb.dut.amp[13] top.vcordic_tb.dut.amp[12] top.vcordic_tb.dut.amp[11] top.vcordic_tb.dut.amp[10] top.vcordic_tb.dut.amp[9] top.vcordic_tb.dut.amp[8] top.vcordic_tb.dut.amp[7] top.vcordic_tb.dut.amp[6] top.vcordic_tb.dut.amp[5] top.vcordic_tb.dut.amp[4] top.vcordic_tb.dut.amp[3] top.vcordic_tb.dut.amp[2] top.vcordic_tb.dut.amp[1] top.vcordic_tb.dut.amp[0]
+@420
+#{top.vcordic_tb.phi[23:0]} top.vcordic_tb.phi[23] top.vcordic_tb.phi[22] top.vcordic_tb.phi[21] top.vcordic_tb.phi[20] top.vcordic_tb.phi[19] top.vcordic_tb.phi[18] top.vcordic_tb.phi[17] top.vcordic_tb.phi[16] top.vcordic_tb.phi[15] top.vcordic_tb.phi[14] top.vcordic_tb.phi[13] top.vcordic_tb.phi[12] top.vcordic_tb.phi[11] top.vcordic_tb.phi[10] top.vcordic_tb.phi[9] top.vcordic_tb.phi[8] top.vcordic_tb.phi[7] top.vcordic_tb.phi[6] top.vcordic_tb.phi[5] top.vcordic_tb.phi[4] top.vcordic_tb.phi[3] top.vcordic_tb.phi[2] top.vcordic_tb.phi[1] top.vcordic_tb.phi[0]
+[pattern_trace] 1
+[pattern_trace] 0

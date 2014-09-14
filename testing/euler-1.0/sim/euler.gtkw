@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.34 (w)1999-2012 BSI
+[*] Fri Jan 10 23:35:44 2014
+[*]
+[dumpfile] "/home/yc/SVN/Studium/DSP/Projekt/SDR/testing/euler-1.0/sim/euler.ghw"
+[dumpfile_mtime] "Fri Jan 10 23:35:37 2014"
+[dumpfile_size] 17534
+[savefile] "/home/yc/SVN/Studium/DSP/Projekt/SDR/testing/euler-1.0/sim/euler.gtkw"
+[timestart] 0
+[size] 1366 713
+[pos] -1 -1
+*-25.552444 11363000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.euler_tb.
+[treeopen] top.euler_tb.dut.
+[treeopen] top.euler_tb.dut.cordic.
+[sst_width] 201
+[signals_width] 223
+[sst_expanded] 1
+[sst_vpaned_height] 414
+@420
+#{top.euler_tb.i[15:0]} top.euler_tb.i[15] top.euler_tb.i[14] top.euler_tb.i[13] top.euler_tb.i[12] top.euler_tb.i[11] top.euler_tb.i[10] top.euler_tb.i[9] top.euler_tb.i[8] top.euler_tb.i[7] top.euler_tb.i[6] top.euler_tb.i[5] top.euler_tb.i[4] top.euler_tb.i[3] top.euler_tb.i[2] top.euler_tb.i[1] top.euler_tb.i[0]
+#{top.euler_tb.q[15:0]} top.euler_tb.q[15] top.euler_tb.q[14] top.euler_tb.q[13] top.euler_tb.q[12] top.euler_tb.q[11] top.euler_tb.q[10] top.euler_tb.q[9] top.euler_tb.q[8] top.euler_tb.q[7] top.euler_tb.q[6] top.euler_tb.q[5] top.euler_tb.q[4] top.euler_tb.q[3] top.euler_tb.q[2] top.euler_tb.q[1] top.euler_tb.q[0]
+@24
+#{top.euler_tb.amp[15:0]} top.euler_tb.amp[15] top.euler_tb.amp[14] top.euler_tb.amp[13] top.euler_tb.amp[12] top.euler_tb.amp[11] top.euler_tb.amp[10] top.euler_tb.amp[9] top.euler_tb.amp[8] top.euler_tb.amp[7] top.euler_tb.amp[6] top.euler_tb.amp[5] top.euler_tb.amp[4] top.euler_tb.amp[3] top.euler_tb.amp[2] top.euler_tb.amp[1] top.euler_tb.amp[0]
+@420
+#{top.euler_tb.phi[23:0]} top.euler_tb.phi[23] top.euler_tb.phi[22] top.euler_tb.phi[21] top.euler_tb.phi[20] top.euler_tb.phi[19] top.euler_tb.phi[18] top.euler_tb.phi[17] top.euler_tb.phi[16] top.euler_tb.phi[15] top.euler_tb.phi[14] top.euler_tb.phi[13] top.euler_tb.phi[12] top.euler_tb.phi[11] top.euler_tb.phi[10] top.euler_tb.phi[9] top.euler_tb.phi[8] top.euler_tb.phi[7] top.euler_tb.phi[6] top.euler_tb.phi[5] top.euler_tb.phi[4] top.euler_tb.phi[3] top.euler_tb.phi[2] top.euler_tb.phi[1] top.euler_tb.phi[0]
+@28
+#{top.euler_tb.dut.quadrant[0][1:0]} top.euler_tb.dut.quadrant[0][1] top.euler_tb.dut.quadrant[0][0]
+#{top.euler_tb.dut.quadrant[16][1:0]} top.euler_tb.dut.quadrant[16][1] top.euler_tb.dut.quadrant[16][0]
+@200
+-
+@421
+#{top.euler_tb.dut.cordic.i[15:0]} top.euler_tb.dut.cordic.i[15] top.euler_tb.dut.cordic.i[14] top.euler_tb.dut.cordic.i[13] top.euler_tb.dut.cordic.i[12] top.euler_tb.dut.cordic.i[11] top.euler_tb.dut.cordic.i[10] top.euler_tb.dut.cordic.i[9] top.euler_tb.dut.cordic.i[8] top.euler_tb.dut.cordic.i[7] top.euler_tb.dut.cordic.i[6] top.euler_tb.dut.cordic.i[5] top.euler_tb.dut.cordic.i[4] top.euler_tb.dut.cordic.i[3] top.euler_tb.dut.cordic.i[2] top.euler_tb.dut.cordic.i[1] top.euler_tb.dut.cordic.i[0]
+@420
+#{top.euler_tb.dut.cordic.q[15:0]} top.euler_tb.dut.cordic.q[15] top.euler_tb.dut.cordic.q[14] top.euler_tb.dut.cordic.q[13] top.euler_tb.dut.cordic.q[12] top.euler_tb.dut.cordic.q[11] top.euler_tb.dut.cordic.q[10] top.euler_tb.dut.cordic.q[9] top.euler_tb.dut.cordic.q[8] top.euler_tb.dut.cordic.q[7] top.euler_tb.dut.cordic.q[6] top.euler_tb.dut.cordic.q[5] top.euler_tb.dut.cordic.q[4] top.euler_tb.dut.cordic.q[3] top.euler_tb.dut.cordic.q[2] top.euler_tb.dut.cordic.q[1] top.euler_tb.dut.cordic.q[0]
+@24
+#{top.euler_tb.dut.cordic.amp[15:0]} top.euler_tb.dut.cordic.amp[15] top.euler_tb.dut.cordic.amp[14] top.euler_tb.dut.cordic.amp[13] top.euler_tb.dut.cordic.amp[12] top.euler_tb.dut.cordic.amp[11] top.euler_tb.dut.cordic.amp[10] top.euler_tb.dut.cordic.amp[9] top.euler_tb.dut.cordic.amp[8] top.euler_tb.dut.cordic.amp[7] top.euler_tb.dut.cordic.amp[6] top.euler_tb.dut.cordic.amp[5] top.euler_tb.dut.cordic.amp[4] top.euler_tb.dut.cordic.amp[3] top.euler_tb.dut.cordic.amp[2] top.euler_tb.dut.cordic.amp[1] top.euler_tb.dut.cordic.amp[0]
+@420
+#{top.euler_tb.dut.cordic.phi[23:0]} top.euler_tb.dut.cordic.phi[23] top.euler_tb.dut.cordic.phi[22] top.euler_tb.dut.cordic.phi[21] top.euler_tb.dut.cordic.phi[20] top.euler_tb.dut.cordic.phi[19] top.euler_tb.dut.cordic.phi[18] top.euler_tb.dut.cordic.phi[17] top.euler_tb.dut.cordic.phi[16] top.euler_tb.dut.cordic.phi[15] top.euler_tb.dut.cordic.phi[14] top.euler_tb.dut.cordic.phi[13] top.euler_tb.dut.cordic.phi[12] top.euler_tb.dut.cordic.phi[11] top.euler_tb.dut.cordic.phi[10] top.euler_tb.dut.cordic.phi[9] top.euler_tb.dut.cordic.phi[8] top.euler_tb.dut.cordic.phi[7] top.euler_tb.dut.cordic.phi[6] top.euler_tb.dut.cordic.phi[5] top.euler_tb.dut.cordic.phi[4] top.euler_tb.dut.cordic.phi[3] top.euler_tb.dut.cordic.phi[2] top.euler_tb.dut.cordic.phi[1] top.euler_tb.dut.cordic.phi[0]
+[pattern_trace] 1
+[pattern_trace] 0
